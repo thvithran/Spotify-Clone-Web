@@ -1,5 +1,5 @@
 # Spotify-Clone-Web
-Spotify Clone page using HTML and CSS
+Spotify Clone Web Page using HTML and CSS
 
 
 https://thvithran.github.io/Spotify-Clone-Web/
